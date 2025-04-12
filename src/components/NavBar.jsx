@@ -13,7 +13,7 @@ const NavBar =()=>{
             <div className="font-semibold text-white flex gap-8">
             <p className="text-xs">HOME</p>
             <p className="text-xs">TASKS</p>
-            <p className="text-xs">QUOTES</p>
+            
             <p className="text-xs">ABOUT US</p>
             </div>
         </div>
